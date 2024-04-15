@@ -1,0 +1,21 @@
+Par ou ímpar
+Dê boas-vindas ao usuário e peça-o para inserir um número de 1 a 1000.
+
+Depois de o usuário informar o número, verifique se ele é par ou ímpar e diga ao usuário.
+
+Exemplo:
+
+Mensagem: Em qual número você pensou?
+Entrada: 25
+Saída: Esse é um número ímpar! Gostaria de verificar outro?
+
+**
+
+Gerador de letras de música
+Peça ao usuário para escolher uma música de uma lista de 10 músicas exibidas. Depois de o usuário fazer isso, exiba a letra da música selecionada.
+
+Para desenvolver mais o projeto, tenha pelo menos 3 músicas para cada artista.
+
+Assim, peça para o usuário escolher pelo nome do artista e depois selecionar uma música daquele mesmo artista. Assim, o usuário pode escolher uma música específica da lista exibida.
+
+**
